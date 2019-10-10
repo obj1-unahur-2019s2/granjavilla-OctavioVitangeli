@@ -31,4 +31,8 @@ object hector {
 	method cantidadDePlantasCosechadas() {
 		return plantasCosechadas.size()
 	}
+	
+	method teChocoElOso(){
+		return self.position(new Position(x = 0, y = 0))}
+
 }

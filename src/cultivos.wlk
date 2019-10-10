@@ -1,4 +1,3 @@
-
 class Maiz {
 	var property position
 	var property esAdulta = false 
@@ -16,7 +15,7 @@ class Maiz {
 	}
 	method teChocoElOso() {
 		self.regate()
-	}
+	} 	
 }
 
 class Trigo {
@@ -30,3 +29,4 @@ class Trigo {
 		}
 	}
 }
+
